@@ -1,3 +1,4 @@
+// Write a program to traverse an array and print the odd-indexed elements.
 #include <stdio.h>
 int main()
 {

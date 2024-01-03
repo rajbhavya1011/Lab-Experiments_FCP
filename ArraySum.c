@@ -1,3 +1,6 @@
+/*Sum of Array Elements: Write a program to calculate and return the sum of
+elements of a 1-D array.
+*/
 #include <stdio.h>
 int main()
 {

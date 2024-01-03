@@ -1,3 +1,6 @@
+// Temperature Conversion: Write a program that uses two functions to convert
+// temperature from Celsius to Fahrenheit and vice versa, respectively and return
+// the converted values.
 #include<stdio.h>
 float f_c(int f)
 {

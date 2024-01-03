@@ -1,3 +1,6 @@
+/*Find Largest Element in an Array: Write a program that uses for loops to find the
+largest element in a 1-D array and returns it.
+*/
 #include <stdio.h>
 int main()
 {

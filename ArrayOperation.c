@@ -1,3 +1,6 @@
+/*Array operations: Write a program to find average, max and min elements from
+an array of n long integers.
+*/
 #include <stdio.h>
 int main()
 {

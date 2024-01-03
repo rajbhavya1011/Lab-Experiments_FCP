@@ -1,3 +1,6 @@
+/*Write a program that uses two functions to swap two numbers
+a. Using a third variable
+b. Without using a third variable*/
 #include<stdio.h>
 int swap_3rd(int a,int b)
 {

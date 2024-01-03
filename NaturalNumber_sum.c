@@ -1,3 +1,6 @@
+/* Sum of Natural Numbers: Given a positive integer n, write a program to calculate
+and return the sum of natural numbers up to n using loops.
+*/
 #include <stdio.h>
 int main()
 {

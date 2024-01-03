@@ -1,3 +1,6 @@
+/*Simple Interest Calculation: Write a program that uses a function to calculate
+and return simple interest with given principal, rate, and time.*/
+
 #include<stdio.h>
 float interest(int p, int r, int t)
 {
